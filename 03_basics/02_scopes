@@ -1,0 +1,15 @@
+
+let a =3000;
+
+
+if(true){
+let a=10
+var b=50;
+const c=55;
+console.log("Inner:",a)
+
+}
+
+console.log(a)
+//console.log(b)
+//console.log(c)
